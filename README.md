@@ -1,2 +1,2 @@
-# human_resource_analysis
+# Human_resource_analysis
 Machine learning for human resource in python
